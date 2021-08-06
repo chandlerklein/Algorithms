@@ -1,4 +1,4 @@
-package search;
+package com.chandler.algorithms.search;
 
 import java.util.Arrays;
 import java.util.concurrent.ThreadLocalRandom;
