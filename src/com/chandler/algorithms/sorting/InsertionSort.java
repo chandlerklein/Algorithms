@@ -20,6 +20,7 @@ public class InsertionSort {
 
     public static void main(String[] args) {
         var arr = new Random().ints(30, 0, 101).toArray();
+        System.out.println(Arrays.toString(arr));
         InsertionSort.sort(arr);
         System.out.println(Arrays.toString(arr));
     }
