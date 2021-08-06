@@ -1,4 +1,4 @@
-package com.chandler.algorithms.sorting;
+package com.chandler.algorithms.sort;
 
 import java.util.Arrays;
 import java.util.Random;
